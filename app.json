@@ -1,0 +1,8 @@
+{
+  "name": "RNCLIExpoRouter",
+  "displayName": "RNCLIExpoRouter",
+  "scheme": "RNCLIExpoRouter",
+  "plugins": [
+    "expo-router"
+  ]
+}
